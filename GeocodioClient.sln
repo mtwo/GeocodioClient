@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5C504BDD-A85E-4247-BDE1-8BAE65C24834}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F479B65-2076-43B4-A319-232033D6A575}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GeocodioClient", "src\GeocodioClient\GeocodioClient.kproj", "{72612CD8-C945-489D-A347-238E98776331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72612CD8-C945-489D-A347-238E98776331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72612CD8-C945-489D-A347-238E98776331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72612CD8-C945-489D-A347-238E98776331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72612CD8-C945-489D-A347-238E98776331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{72612CD8-C945-489D-A347-238E98776331} = {5C504BDD-A85E-4247-BDE1-8BAE65C24834}
+	EndGlobalSection
+EndGlobal
