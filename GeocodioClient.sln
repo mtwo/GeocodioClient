@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22609.0
+VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5C504BDD-A85E-4247-BDE1-8BAE65C24834}"
 EndProject
@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GeocodioClient", "src\GeocodioClient\GeocodioClient.kproj", "{72612CD8-C945-489D-A347-238E98776331}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GeocodioClient", "src\GeocodioClient\GeocodioClient.xproj", "{72612CD8-C945-489D-A347-238E98776331}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,46 @@
+{
+  "locked": false,
+  "version": -9998,
+  "projectFileDependencyGroups": {
+    "": [],
+    "Asp.Net,Version=v5.0": [
+      "RestSharp >= 105.0.1"
+    ]
+  },
+  "libraries": {
+    "RestSharp/105.0.1": {
+      "serviceable": false,
+      "sha": "2jEivNmSZFsK/iyoOu0l9+pEM2hXLQCvOQdLgQcr92cdnirl2xm+Wddy7lP6JTwZSLjAQ1ogHlal1tLu5hfZPw==",
+      "frameworks": {
+        "Asp.Net,Version=v5.0": {
+          "dependencies": {},
+          "frameworkAssemblies": [],
+          "runtimeAssemblies": [
+            "lib/net4/RestSharp.dll"
+          ],
+          "compileAssemblies": [
+            "lib/net4/RestSharp.dll"
+          ]
+        }
+      },
+      "files": [
+        "readme.txt",
+        "RestSharp.105.0.1.nupkg",
+        "RestSharp.105.0.1.nupkg.sha512",
+        "RestSharp.nuspec",
+        "lib/net35/RestSharp.dll",
+        "lib/net35/RestSharp.xml",
+        "lib/net35-client/RestSharp.dll",
+        "lib/net35-client/RestSharp.xml",
+        "lib/net4/RestSharp.dll",
+        "lib/net4/RestSharp.xml",
+        "lib/net4-client/RestSharp.dll",
+        "lib/net4-client/RestSharp.xml",
+        "lib/sl4/RestSharp.Silverlight.dll",
+        "lib/sl4/RestSharp.Silverlight.xml",
+        "lib/sl4-wp71/RestSharp.WindowsPhone.dll",
+        "lib/sl4-wp71/RestSharp.WindowsPhone.xml"
+      ]
+    }
+  }
+}
